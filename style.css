@@ -473,11 +473,12 @@ body {
 }
 
 @media (max-width: 600px) {
-    .layanan-container {
+    .Kontak-container {
         padding: 15px;
     }
 
-    .layanan-section h2 {
+    .Kontak-section h2 {
         font-size: 20px;
     }
+
 }
