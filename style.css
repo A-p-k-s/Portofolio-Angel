@@ -360,13 +360,13 @@ body {
 
 /* Form */
 
-.form-section {
+.Contact-section {
     padding: 150px;
     background-color: #efefef;
     text-align: center;
 }
 
-.form-section::before {
+.Contact-section::before {
     content: "";
     position: relative;
     top: 0;
@@ -376,13 +376,13 @@ body {
     background-color: rgba(0, 0, 0, 0.5);
 }
 
-.form-section h2 {
+.Contact-section h2 {
     text-transform: uppercase;
     font-size: 3rem;
     margin-bottom: 40px;
 }
 
-.form-form {
+.Contact-form {
     max-width: 600px;
     margin: 0 auto;
     background-color: #fff;
@@ -473,11 +473,12 @@ body {
 }
 
 @media (max-width: 600px) {
-        .Kontak-container {
+    .Kontak-container {
         padding: 15px;
     }
 
     .Kontak-section h2 {
         font-size: 20px;
     }
+
 }
